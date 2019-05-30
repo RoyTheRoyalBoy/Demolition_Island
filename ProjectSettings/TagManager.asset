@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - CarBodyPickup
+  - EnginePickup
+  - TirePickup
+  - RocketPickup
+  - ScoreZone
+  - Player3
+  - Player2
+  - Player4
+  - Flare
+  - InnerBar
+  - Rocket
+  - FireRing
+  - ShieldPickup
+  - Flag
+  - FireRings
+  - Flags
+  - Landmine
+  - DropBox
+  - LandminePickup
+  - TutCarBodyPickup
+  - TutEnginePickup
+  - TutTirePickup
+  - TutFlag
+  - TutFireRing
+  - TutLandminePickup
+  - TutShieldPickup
+  - TutRocketPickup
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Shield
+  - Rocket
+  - DropBox
+  - Players
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,22 @@
+https://www.indiedb.com/company/almost-above-average-games/news/demolition-island-weekly-article-gold
+
+Or if it has not been authorized yet:
+
+It has been a very busy and productive week at Almost Above Average Games as we release our final version of Demolition Island! Let's check in with the team to see what was added in the final week of development!
+
+Changes
+
+New score board! Our new and improve scoreboard lets players easily see their own score and the players in first place score.
+Separate tutorial scene! The old tutorial has been made optional and can be accessed from the main menu. Additionally players can skip the tutorial by clicking start.
+New ready up! The ready up scene has been made much shorter and has been cleaned up greatly. Additionally players can skip the ready up by clicking start.
+New game settings! Game settings can be accessed from the main menu. Users can now alter the time to win along with bonuses from driving through fire hoops!
+Music! We have been working with a composer this week to add a soundtrack to the game.
+Shield, rockets, and UI cleanup and polish!
+Bug fixes! Bug fixes! Bug fixes! We play tested a bunch this week to make sure the game is as bug free as possible.
+Motivation:
+
+Last week we could tell that we were getting close to the final version of our game. We added a great deal of juice and cleanup that really made the game feel good. This week we worked on perfecting those changes and cleaning up the game as a whole. Players seemed to have trouble figuring out their score and other players scored throughout the game so we updated the scoreboard to allow players to always see their score and the 1st place players score. Additionally we felt that our tutorial/ready up scene was far too wordy, so we separated the two and created an optional tutorial that can be accessed from the main menu. Then we made the ready up scene much shorter to make it easier for players to get playing while still knowing how to play the game! Music had been something that we have wanted to add to the game for sometime and finally after working with a composed for over a month we have a soundtrack in the game! Finally our polish had quite a few glaring bugs (mostly due to late development and limited playtesting) so we spent a great deal of time this week making sure those bugs were not in our final product.
+
+What to look forward to:
+
+Come to our game showcase on Tuesday December 11th at 7pm in the Bob Betty Beyster Building on the University of Michigan North Campus! Attendees will have the opportunity to be one of the first to people to get a taste of Demolition Island!
